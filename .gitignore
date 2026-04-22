@@ -41,3 +41,4 @@ docker/.secrets/
 
 # host-side RViz recordings (docker/record_rviz.sh)
 docker/recordings/
+*.gz
