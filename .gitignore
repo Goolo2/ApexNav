@@ -35,3 +35,9 @@ habitat-lab
 *.par
 bag
 wandb
+# docker secrets (credentials)
+docker/.secrets/
+
+
+# host-side RViz recordings (docker/record_rviz.sh)
+docker/recordings/
